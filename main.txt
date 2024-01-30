@@ -1,0 +1,7 @@
+def HelloWorld(a):
+	print("HelloWorld")
+
+
+
+
+HelloWorld("print")
